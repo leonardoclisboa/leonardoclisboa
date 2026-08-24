@@ -1,5 +1,5 @@
 # Olá! Eu sou o Leonardo Lisboa 👋
----
+
 ## 📁 Sobre mim
 Tenho 19 anos e sou estudante de **Engenharia de Software**, atualmente no **2º semestre**. Estou construindo minha formação na área de tecnologia com foco no desenvolvimento de software, resolução de problemas e Tenho 19 anos e sou estudante de **Engenharia de Software**, atualmente no **2º semestre**. Estou construindo minha formação na área de tecnologia com foco no desenvolvimento de software, resolução de problemas e aprendizado contínuo.
 
