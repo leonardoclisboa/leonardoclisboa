@@ -16,7 +16,8 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos que 
 - Modelagem de Banco de Dados 
 - Algoritmos e Pensamento Computacional 
 
-### 📚 Conhecimentos adquiridos - Programação de Computadores 
+### 📚 Conhecimentos adquiridos 
+- Programação de Computadores 
 - Prototipagem de Sistemas Computacionais
 - Engenharia de Prompt e Aplicações em IA
 - Interface e Jornada do Usuário
