@@ -1,5 +1,5 @@
 # Olá! Eu sou o Leonardo Lisboa 👋
-
+---
 ## 📁 Sobre mim
 Tenho 19 anos e sou estudante de **Engenharia de Software**, atualmente no **2º semestre**. Estou construindo minha formação na área de tecnologia com foco no desenvolvimento de software, resolução de problemas e Tenho 19 anos e sou estudante de **Engenharia de Software**, atualmente no **2º semestre**. Estou construindo minha formação na área de tecnologia com foco no desenvolvimento de software, resolução de problemas e aprendizado contínuo.
 
@@ -8,6 +8,8 @@ No primeiro semestre, cursei disciplinas que me proporcionaram uma base importan
 Atualmente, no segundo semestre, estou aprofundando meus conhecimentos em **Desenvolvimento Front-End**, **Modelagem de Banco de Dados** e **Algoritmos e Pensamento Computacional**, desenvolvendo habilidades voltadas à criação de aplicações, lógica de programação e estruturação de dados.
 
 Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos que me permitam aplicar na prática os conhecimentos adquiridos durante a graduação e contribuir para soluções úteis através da tecnologia.
+
+### Aberto a novas oportunidades e projetos!
 ---
 ### 🚀 Atualmente estudando 
 - Desenvolvimento Front-End 
