@@ -10,19 +10,6 @@ Atualmente, no segundo semestre, estou aprofundando meus conhecimentos em **Dese
 Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos que me permitam aplicar na prática os conhecimentos adquiridos durante a graduação e contribuir para soluções úteis através da tecnologia.
 
 ### Aberto a novas oportunidades e projetos!
----
-### 🚀 Atualmente estudando 
-- Desenvolvimento Front-End 
-- Modelagem de Banco de Dados 
-- Algoritmos e Pensamento Computacional 
-
-### 📚 Conhecimentos adquiridos 
-- Programação de Computadores 
-- Prototipagem de Sistemas Computacionais
-- Engenharia de Prompt e Aplicações em IA
-- Interface e Jornada do Usuário
-- Estou sempre buscando aprender novas tecnologias e compartilhar minha evolução através dos projetos publicados neste GitHub.
----
 
 ### 🚀 Tecnologias & Ferramentas que utilizo
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,html,py,mysql)](https://skillicons.dev)
