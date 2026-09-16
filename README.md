@@ -17,9 +17,6 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos que 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,html,css,py,c)](https://skillicons.dev)
 
 ---
-## Editor de código mais usados
-![](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
----
 ### 📢 Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lisboa-426675395/)
