@@ -9,7 +9,7 @@ Atualmente, no segundo semestre, estou aprofundando meus conhecimentos em **Dese
 
 Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos que me permitam aplicar na prática os conhecimentos adquiridos durante a graduação e contribuir para soluções úteis através da tecnologia.
 
-### Aberto a novas oportunidades e projetos!
+### Aberto a novas oportunidades!
 
 ---
 
