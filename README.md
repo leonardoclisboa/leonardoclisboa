@@ -14,7 +14,7 @@ Meu objetivo é evoluir constantemente como desenvolvedor, criando projetos que 
 ---
 
 ### 🚀 Tecnologias & Ferramentas que utilizo
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,figma,html,css,py,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c)](https://skillicons.dev)
 
 ---
 ### 📢 Entre em contato comigo
