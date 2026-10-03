@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4992F7&background=00010100&width=435&lines=Ol%C3%A1!+Eu+sou+o+Leonardo+Lisboa+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%92%BB)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&vCenter=true&width=530&height=100&lines=Ol%C3%A1!+Eu+sou+o+Leonardo+Lisboa+%F0%9F%91%8B;Estudante+de+Engenharia+de+software)](https://git.io/typing-svg)
 
 ### 📁 Sobre mim
 
@@ -18,11 +18,11 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 
 ---
 
-### 🚀 Tecnologias & Ferramentas que utilizo
+### 🛠️ Tecnologias & Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c,)](https://skillicons.dev)
 
 ---
-### 📢 Entre em contato comigo
+### ✉️ Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lisboa-426675395/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocarvalho4113@gmail.com)
