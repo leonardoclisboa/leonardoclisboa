@@ -14,7 +14,7 @@ Durante a graduação, já tive contato com disciplinas como **Programação de 
 
 Meu objetivo é transformar o conhecimento adquirido na graduação em projetos práticos, evoluindo constantemente como desenvolvedor e explorando diferentes áreas da tecnologia.
 
-### 🚀 Aberto a novas oportunidades e experiências que contribuam para meu desenvolvimento profissional.
+### 🚀 Aberto a novas oportunidades e experiências.
 
 ---
 
