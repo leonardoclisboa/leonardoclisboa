@@ -6,7 +6,7 @@ Tenho 19 anos e sou estudante de **Engenharia de Software**, atualmente no **2º
 
 🎓 **Formação:** Graduação em Engenharia de Software  (2º semestre - cursando)
 
-🌱 **Tecnologias e ferramentas em estudo:** Python, C, HTML, CSS e Canva
+🌱 **Tecnologias e ferramentas em estudo:** Python, C, HTML, CSS e JavaScript
 
 💼 **Objetivo:** Desenvolver continuamente minhas competências técnicas e adquirir experiência prática para futuras oportunidades de estágio na área de tecnologia e desenvolvimento de software.
 
@@ -19,7 +19,7 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 ---
 
 ### 🛠️ Tecnologias & Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c,js,)](https://skillicons.dev)
 
 ---
 ### ✉️ Entre em contato comigo
