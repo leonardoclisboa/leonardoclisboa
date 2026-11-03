@@ -22,7 +22,19 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c,js,)](https://skillicons.dev)
 
 ---
+
+## 🛠️ Projetos & Algoritmos em Destaque
+
+| Projeto | Descrição | Tecnologias | Repositório |
+| :--- | :--- | :--- | :---: |
+| **Bubble Sort & Quick Sort** | Estudo comparativo e implementação dos algoritmos clássicos de ordenação de dados em C. | `C` `Estrutura de Dados` | [Ver Código ↗](https://github.com/leonardoclisboa/Faculdade/tree/main/Algoritimo_e_pensamento_computacional/Atividades/dubble-sort-e-quick-sort-em-c) |
+| **Ordenação de Alunos** | Aplicação do algoritmo Bubble Sort para manipulação e ordenação de registros acadêmicos. | `C` `Algoritmos` | [Ver Código ↗](https://github.com/leonardoclisboa/Bubble-Sort-alunos) |
+| **Desafio de Monitoramento** | Solução focada em lógica de monitoramento e análise computacional de métricas/processos. | `C` `Lógica` | [Ver Código ↗](https://github.com/leonardoclisboa/Faculdade/tree/main/Algoritimo_e_pensamento_computacional/Atividades/desafio-monitoramento) |
+| **Calculadora em C** | Implementação de calculadora funcional explorando funções, modularização e controle de fluxo. | `C` `CLI` | [Ver Código ↗](https://github.com/leonardoclisboa/Faculdade/tree/main/Algoritimo_e_pensamento_computacional/Atividades/Atividade_calculadora_C) |
+| **Calculadora (Lógica)** | Construção da estrutura lógica para operações matemáticas fundamentais e validação de fluxo. | `Algoritmos` `Lógica` | [Ver Código ↗](https://github.com/leonardoclisboa/Faculdade/tree/main/Algoritimo_e_pensamento_computacional/Atividades/Atividade_calculadora) |
 ### ✉️ Entre em contato comigo
+
+---
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lisboa-426675395/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocarvalho4113@gmail.com)
