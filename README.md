@@ -19,7 +19,7 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 ### 💻 Tecnologias & Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c,js,)](https://skillicons.dev)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoclisboa&layout=donut&langs_count=8&hide=html,css" alt="Linguagens mais usadas" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoclisboa&layout=donut&langs_count=8&hide=html,css&theme=dark" alt="Linguagens mais usadas por leonardoclisboa" />
 ---
 
 ## 🛠️ Projetos & Algoritmos em Destaque
