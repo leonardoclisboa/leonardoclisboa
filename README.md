@@ -21,7 +21,7 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 
 ### 📊 Stacks mais usadas
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leonardoclisboa&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoclisboa&layout=compact&theme=dark&hide_border=true&cache_seconds=1800" alt="Linguagens Mais Usadas" />
 
 ## 🛠️ Projetos & Algoritmos em Destaque
 
