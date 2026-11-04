@@ -19,6 +19,10 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 ### 💻 Tecnologias & Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c,js,)](https://skillicons.dev)
 
+### 📊 Stacks mais usadas
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoclisboa&layout=donut&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠️ Projetos & Algoritmos em Destaque
 
 | Projeto | Descrição | Tecnologias | Repositório |
