@@ -30,9 +30,10 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 | **Desafio de Monitoramento** | Solução focada em lógica de monitoramento e análise computacional de métricas/processos. | `C` `Lógica` | [Ver Código ↗](https://github.com/leonardoclisboa/Faculdade/tree/main/Algoritimo_e_pensamento_computacional/Atividades/desafio-monitoramento) |
 | **Calculadora em C** | Implementação de calculadora funcional explorando funções, modularização e controle de fluxo. | `C` `CLI` | [Ver Código ↗](https://github.com/leonardoclisboa/Faculdade/tree/main/Algoritimo_e_pensamento_computacional/Atividades/Atividade_calculadora_C) |
 | **Calculadora (Lógica)** | Construção da estrutura lógica para operações matemáticas fundamentais e validação de fluxo. | `Algoritmos` `Lógica` | [Ver Código ↗](https://github.com/leonardoclisboa/Faculdade/tree/main/Algoritimo_e_pensamento_computacional/Atividades/Atividade_calculadora) |
-### ✉️ Entre em contato comigo
 
 ---
+
+### ✉️ Entre em contato comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-lisboa-426675395/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardocarvalho4113@gmail.com)
