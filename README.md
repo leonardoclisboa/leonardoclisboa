@@ -19,6 +19,7 @@ Meu objetivo é transformar o conhecimento adquirido na graduação em projetos 
 ### 💻 Tecnologias & Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=github,git,vscode,html,css,py,c,js,)](https://skillicons.dev)
 
+---
 
 ## 🛠️ Projetos & Algoritmos em Destaque
 
